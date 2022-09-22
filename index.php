@@ -10,7 +10,15 @@
 </head>
 
 <body>
-
+  <header>
+    <!-- there will be a new project here -->
+  </header>
+  <main>
+    <!--  -->
+  </main>
+  <footer>
+    <!--  -->
+  </footer>
   <script src="./script.js"></script>
 </body>
 

@@ -17,7 +17,7 @@
     <!-- there will be a new project here -->
   </main>
   <footer>
-    <!--  -->
+    <!-- there will be a new project here -->
   </footer>
   <script src="./script.js"></script>
 </body>

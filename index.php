@@ -14,7 +14,7 @@
     <!-- there will be a new project here -->
   </header>
   <main>
-    <!--  -->
+    <!-- there will be a new project here  -->
   </main>
   <footer>
     <!-- -->
